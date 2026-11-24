@@ -1,4 +1,3 @@
-
 const pokemon_number = document.getElementById("pknum");
 const pokemon_name = document.getElementById("pkname");
 const pokemon_img = document.getElementById("pkimg");
@@ -51,6 +50,3 @@ const renderPokemon = async (pokemon)=> {
     renderPokemon(searchPokemon)
  })
  renderPokemon(searchPokemon)
-
-
-
